@@ -1,3 +1,4 @@
 module.exports = {
-    sessionSecret : 'thisissecretkey'
+    sessionSecret : 'thisissecretkey',
+    db : 'mongodb://localhost/database'
 }
